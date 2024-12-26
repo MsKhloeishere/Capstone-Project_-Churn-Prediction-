@@ -1,6 +1,6 @@
 #import modules
 import numpy as np
-import gradio as gr
+import streamlit as st
 import joblib
 import pandas as pd
 import os
